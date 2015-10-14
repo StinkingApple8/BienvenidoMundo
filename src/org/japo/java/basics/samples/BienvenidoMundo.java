@@ -4,7 +4,7 @@ public class BienvenidoMundo {
 
     public static void main(String[] args) {
         
-        System.out.println("Bienvenido Mundo");
+        System.out.println("Bienvenido Bocata Chorizo");
         
     }
     
